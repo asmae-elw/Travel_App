@@ -108,5 +108,27 @@
     </string>
     <string name="action_settings">Settings</string>
     <string name="choisissez_une_ville">Choisissez une ville</string>
+    <string name="Discover">Discover cities</string>
+    <string name="Restaurants">Discover restaurants</string>
+    <string name="Sites">Discover sights</string>
+    <string name="Hotels">Discover hotels </string>
+    <string name="London">London</string>
+    <string name="Rabat">Rabat</string>
+    <string name="Sights"><![CDATA[Sights & Activities]]></string>
+    <string name="Trip_title">Titre du voyage</string>
+    <string name="TripForm">Plan your new trip ! </string>
+    <string name="date_debut">Date de début du voyage</string>
+    <string name="date_fin">Date de fin du voyage</string>
+    <string name="budget">budget</string>
+    <string name="activity_menu">Choisissez une activité</string>
+    <string name="Date_debut_reservation">Date de la réservation</string>
+    <string name="Date_find_reservation">Date de la fin de la réservation</string>
+    <string name="heure_debut">Heure de début de la réservation</string>
+    <string name="heure_fin">Heure de fin de la réservation</string>
+    <string name="ReservationForm">Add a new reservation to your trip !</string>
+    <string-array name="type_de_voyage">
+        <item>En groupe</item>
+        <item>Solo</item>
+    </string-array>
 
 </resources>
